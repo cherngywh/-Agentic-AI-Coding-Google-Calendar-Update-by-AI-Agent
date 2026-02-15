@@ -1,0 +1,163 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Tutoring Sessions//EN
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+
+BEGIN:VEVENT
+UID:tutoring-20260215-1200@tutoring
+DTSTAMP:20260208T000000Z
+DTSTART:20260215T120000
+DTEND:20260215T130000
+SUMMARY:Elementary Reading - Sid L. with Meredith Soleyjacks
+DESCRIPTION:Subject: Elementary Reading\nTutor: Sid L.\nChild: Meredith Soleyjacks\nLocation: Online Session
+LOCATION:Online Session
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:tsou819111@gmail.com
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:leesid0201@gmail.com
+URL:https://us02web.zoom.us/j/81931997718
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tutoring-20260217-1600@tutoring
+DTSTAMP:20260208T000000Z
+DTSTART:20260217T160000
+DTEND:20260217T170000
+SUMMARY:Elementary Writing Composition - Sid L. with Grace Johnson
+DESCRIPTION:Subject: Elementary Writing Composition\nTutor: Sid L.\nChild: Grace Johnson\nLocation: Online Session
+LOCATION:Online Session
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:tsou819111@gmail.com
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:leesid0201@gmail.com
+URL:https://us02web.zoom.us/j/81931997718
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tutoring-20260222-1200@tutoring
+DTSTAMP:20260208T000000Z
+DTSTART:20260222T120000
+DTEND:20260222T130000
+SUMMARY:Elementary Reading - Sid L. with Meredith Soleyjacks
+DESCRIPTION:Subject: Elementary Reading\nTutor: Sid L.\nChild: Meredith Soleyjacks\nLocation: Online Session
+LOCATION:Online Session
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:tsou819111@gmail.com
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:leesid0201@gmail.com
+URL:https://us02web.zoom.us/j/81931997718
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tutoring-20260227-1500@tutoring
+DTSTAMP:20260208T000000Z
+DTSTART:20260227T150000
+DTEND:20260227T160000
+SUMMARY:Elementary Writing Composition - Sid L. with Grace Johnson
+DESCRIPTION:Subject: Elementary Writing Composition\nTutor: Sid L.\nChild: Grace Johnson\nLocation: Online Session
+LOCATION:Online Session
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:tsou819111@gmail.com
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:leesid0201@gmail.com
+URL:https://us02web.zoom.us/j/81931997718
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tutoring-20260313-1500@tutoring
+DTSTAMP:20260208T000000Z
+DTSTART:20260313T150000
+DTEND:20260313T160000
+SUMMARY:Elementary Writing Composition - Sid L. with Grace Johnson
+DESCRIPTION:Subject: Elementary Writing Composition\nTutor: Sid L.\nChild: Grace Johnson\nLocation: Online Session
+LOCATION:Online Session
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:tsou819111@gmail.com
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:leesid0201@gmail.com
+URL:https://us02web.zoom.us/j/81931997718
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tutoring-20260317-1600@tutoring
+DTSTAMP:20260208T000000Z
+DTSTART:20260317T160000
+DTEND:20260317T170000
+SUMMARY:Elementary Writing Composition - Sid L. with Grace Johnson
+DESCRIPTION:Subject: Elementary Writing Composition\nTutor: Sid L.\nChild: Grace Johnson\nLocation: Online Session
+LOCATION:Online Session
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:tsou819111@gmail.com
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:leesid0201@gmail.com
+URL:https://us02web.zoom.us/j/81931997718
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tutoring-20260320-1500@tutoring
+DTSTAMP:20260208T000000Z
+DTSTART:20260320T150000
+DTEND:20260320T160000
+SUMMARY:Elementary Writing Composition - Sid L. with Grace Johnson
+DESCRIPTION:Subject: Elementary Writing Composition\nTutor: Sid L.\nChild: Grace Johnson\nLocation: Online Session
+LOCATION:Online Session
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:tsou819111@gmail.com
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:leesid0201@gmail.com
+URL:https://us02web.zoom.us/j/81931997718
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tutoring-20260325-1430@tutoring
+DTSTAMP:20260208T000000Z
+DTSTART:20260325T143000
+DTEND:20260325T153000
+SUMMARY:Elementary Writing Composition - Sid L. with Grace Johnson
+DESCRIPTION:Subject: Elementary Writing Composition\nTutor: Sid L.\nChild: Grace Johnson\nLocation: Online Session
+LOCATION:Online Session
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:tsou819111@gmail.com
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:leesid0201@gmail.com
+URL:https://us02web.zoom.us/j/81931997718
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tutoring-20260327-1500@tutoring
+DTSTAMP:20260208T000000Z
+DTSTART:20260327T150000
+DTEND:20260327T160000
+SUMMARY:Elementary Writing Composition - Sid L. with Grace Johnson
+DESCRIPTION:Subject: Elementary Writing Composition\nTutor: Sid L.\nChild: Grace Johnson\nLocation: Online Session
+LOCATION:Online Session
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:tsou819111@gmail.com
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:leesid0201@gmail.com
+URL:https://us02web.zoom.us/j/81931997718
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tutoring-20260401-1430@tutoring
+DTSTAMP:20260208T000000Z
+DTSTART:20260401T143000
+DTEND:20260401T153000
+SUMMARY:Elementary Writing Composition - Sid L. with Grace Johnson
+DESCRIPTION:Subject: Elementary Writing Composition\nTutor: Sid L.\nChild: Grace Johnson\nLocation: Online Session
+LOCATION:Online Session
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:tsou819111@gmail.com
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:leesid0201@gmail.com
+URL:https://us02web.zoom.us/j/81931997718
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tutoring-20260403-1500@tutoring
+DTSTAMP:20260208T000000Z
+DTSTART:20260403T150000
+DTEND:20260403T160000
+SUMMARY:Elementary Writing Composition - Sid L. with Grace Johnson
+DESCRIPTION:Subject: Elementary Writing Composition\nTutor: Sid L.\nChild: Grace Johnson\nLocation: Online Session
+LOCATION:Online Session
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:tsou819111@gmail.com
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:leesid0201@gmail.com
+URL:https://us02web.zoom.us/j/81931997718
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tutoring-20260407-1600@tutoring
+DTSTAMP:20260208T000000Z
+DTSTART:20260407T160000
+DTEND:20260407T170000
+SUMMARY:Elementary Writing Composition - Sid L. with Grace Johnson
+DESCRIPTION:Subject: Elementary Writing Composition\nTutor: Sid L.\nChild: Grace Johnson\nLocation: Online Session
+LOCATION:Online Session
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:tsou819111@gmail.com
+ATTENDEE;RSVP=TRUE;ROLE=REQ-PARTICIPANT:mailto:leesid0201@gmail.com
+URL:https://us02web.zoom.us/j/81931997718
+END:VEVENT
+
+END:VCALENDAR
